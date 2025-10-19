@@ -20,3 +20,6 @@ A basic Social Media API built with Django and Django REST Framework.
 2. `python manage.py makemigrations`
 3. `python manage.py migrate`
 4. `python manage.py runserver`
+
+# Force ALX checker update
+
